@@ -10,7 +10,7 @@ Website Link:
 
 🌐 Visit us: www.yourwebsite.com
 
-Mobile App Link:
+Mobile App Link: https://www.figma.com/design/i6vUJ1n4YLNWXkYRWMHcKX/Figma-Mobile-Apps-Prototype?node-id=0-1&node-type=canvas&t=yrcPRDJBqzd5hr4A-0
 
 📲 Our App:
 
