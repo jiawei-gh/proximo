@@ -18,7 +18,7 @@ https://www.figma.com/proto/i6vUJ1n4YLNWXkYRWMHcKX/Figma-Mobile-Apps-Prototype?n
 ### User Manual
 📘 User Manual :
 
-copy link here
+https://www.canva.com/design/DAGR8_QuxGI/XM3ObTMpg_1ojsHRLu5iqg/edit?utm_content=DAGR8_QuxGI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 #### Join us and experience the future of fashion with Proximo. Get yours today!
 ###### "Evolve with Every Step"
